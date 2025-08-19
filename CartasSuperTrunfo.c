@@ -15,7 +15,7 @@ int main() {
     // -------- Carta 2 --------
     char estado2;              
     char codigo2[4];           
-    char nomeCidade2[50];      
+    char nomeCidade2[50];              
     int   populacao2;          
     float area2;               
     float pib2;                // PIB em bilhões de reais
